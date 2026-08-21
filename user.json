@@ -1,0 +1,8 @@
+{
+    "name": "Alex",
+    "skills": [
+        "Python",
+        "Data Science"
+    ],
+    "is_active": true
+}

@@ -1,0 +1,4 @@
+This line overwrote everything previously in example.txt.
+This line is appended at the bottom!
+Line A
+Line B

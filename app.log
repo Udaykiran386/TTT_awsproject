@@ -1,0 +1,33 @@
+2026-09-05 14:28:11,128 - INFO - Converted 200.00°C to 392.00°F
+2026-09-05 14:53:10,091 - INFO - 2024 is a leap year
+2026-09-05 14:53:27,482 - INFO - 2026 is not a leap year
+2026-09-05 15:26:33,614 - INFO - 6 is multiple by 3
+2026-09-05 15:26:43,574 - INFO - 15 is multiple by 3
+2026-09-05 15:28:15,347 - INFO - 10 is multiple by 5
+2026-09-05 15:29:09,374 - INFO - 15 is multiple by both 3 & 5
+2026-09-05 15:29:18,626 - INFO - 6 is multiple by 3
+2026-09-05 15:29:23,564 - INFO - 10 is multiple by 5
+2026-09-05 15:40:34,219 - INFO - 12 is greater than 1
+2026-09-05 15:40:34,219 - INFO - 12 is prime number
+2026-09-05 15:40:42,693 - INFO - 29 is greater than 1
+2026-09-05 15:40:42,693 - INFO - 29 is prime number
+2026-09-05 16:10:20,013 - INFO - 68 is not a prime number
+2026-09-05 16:10:26,493 - INFO - 12 is not a prime number
+2026-09-05 16:10:33,869 - INFO - 10 is not a prime number
+2026-09-05 16:10:41,602 - INFO - 16 is not a prime number
+2026-09-05 16:18:01,448 - INFO - 10 is not a prime number
+2026-09-05 16:18:05,637 - INFO - 2 is a prime number
+2026-09-05 16:18:12,698 - INFO - 7 is a prime number
+2026-09-05 16:25:13,203 - INFO - 12 is not a prime number
+2026-09-05 16:25:13,204 - INFO - 1 is not a prime number
+2026-09-05 16:25:13,204 - INFO - 2 is a prime number
+2026-09-05 16:25:13,205 - INFO - 4 is not a prime number
+2026-09-05 16:25:13,205 - INFO - 5 is a prime number
+2026-09-05 16:25:13,205 - INFO - 15 is not a prime number
+2026-09-05 16:25:13,205 - INFO - 17 is a prime number
+2026-09-05 16:25:13,205 - INFO - 25 is not a prime number
+2026-09-05 16:25:13,205 - INFO - 29 is a prime number
+2026-09-05 16:25:13,206 - INFO - 97 is a prime number
+2026-09-05 16:25:13,206 - INFO - 100 is not a prime number
+2026-09-05 16:29:12,537 - INFO - 3 is a prime number
+2026-09-05 16:59:37,614 - INFO - [2, 4, 6, 7, 8, 9, 10] is converted to squares of even numbers: [4, 16, 36, 64, 100]

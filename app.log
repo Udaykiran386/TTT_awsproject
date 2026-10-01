@@ -31,3 +31,6 @@
 2026-09-05 16:25:13,206 - INFO - 100 is not a prime number
 2026-09-05 16:29:12,537 - INFO - 3 is a prime number
 2026-09-05 16:59:37,614 - INFO - [2, 4, 6, 7, 8, 9, 10] is converted to squares of even numbers: [4, 16, 36, 64, 100]
+2026-09-29 11:20:56,563 - INFO - 17 is not multiple by 3 & 5
+2026-09-29 11:21:19,412 - INFO - 15 is multiple by both 3 & 5
+2026-09-29 11:21:58,895 - INFO - 17 is not multiple by 3 & 5
